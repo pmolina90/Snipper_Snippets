@@ -1,0 +1,15 @@
+# Ignore Python virtual environment directory
+.venv/
+
+# Ignore any compiled Python files
+*.pyc
+
+# Ignore IDE or editor specific files
+.vscode/
+.idea/
+
+# Ignore environment variables file
+.env
+
+# Ignore any files containing keys or sensitive information
+keys.json
