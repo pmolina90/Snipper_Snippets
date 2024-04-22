@@ -13,3 +13,7 @@
 
 # Ignore any files containing keys or sensitive information
 keys.json
+
+# .gitignore
+private_key.pem
+symmetric_key.txt
